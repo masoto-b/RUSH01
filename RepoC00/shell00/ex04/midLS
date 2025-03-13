@@ -1,0 +1,1 @@
+ls --hide=.,.. -m  --sort=time -p
